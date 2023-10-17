@@ -14,3 +14,8 @@ A simple Notes CLI to help me learn more about NodeJS
   - Opens a web browser and displays all notes.  The web server will be launched on the port value provided after `web`.
 - `note clean`
   - Will completely wipe out all notes.
+
+## Notes
+- I built this using node `v18.15.0`.
+- To be able to run the `note` commands in my terminal, I had to navigate to the root of the project directory and run `npm link`.  
+- I built this by following the example provided in [this Frontend Masters course](https://frontendmasters.com/courses/node-js-v3/).
